@@ -1,0 +1,35 @@
+body {
+  background-color: skyblue;
+}
+
+#form-lreg {
+  width: 600px;
+  height: 400px;
+  background-color: snow;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  padding: 80px 100px;
+  box-sizing: border-box;
+}
+
+#form-lreg .pwdagin, #form-lreg .pwds, #form-lreg .txt, #form-lreg .sub {
+  width: 300px;
+  height: 40px;
+  margin: 20px 0 0 5px;
+  padding-left: 20px;
+  border-radius: 2px;
+  border: 1px solid #515151;
+}
+
+#form-lreg .sub {
+  background-color: skyblue;
+  text-align: center;
+  border: 0;
+  padding: 0;
+  width: 320px;
+  margin-left: 30px;
+}
